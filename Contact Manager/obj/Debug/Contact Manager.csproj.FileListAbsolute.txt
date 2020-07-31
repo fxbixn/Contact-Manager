@@ -1,0 +1,11 @@
+H:\Visual Studio\Contact Manager\Contact Manager\bin\Debug\Contact Manager.exe.config
+H:\Visual Studio\Contact Manager\Contact Manager\bin\Debug\Contact Manager.exe
+H:\Visual Studio\Contact Manager\Contact Manager\bin\Debug\Contact Manager.pdb
+H:\Visual Studio\Contact Manager\Contact Manager\obj\Debug\Contact Manager.csprojAssemblyReference.cache
+H:\Visual Studio\Contact Manager\Contact Manager\obj\Debug\Contact_Manager.Form1.resources
+H:\Visual Studio\Contact Manager\Contact Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+H:\Visual Studio\Contact Manager\Contact Manager\obj\Debug\Contact Manager.csproj.GenerateResource.cache
+H:\Visual Studio\Contact Manager\Contact Manager\obj\Debug\Contact Manager.csproj.CoreCompileInputs.cache
+H:\Visual Studio\Contact Manager\Contact Manager\obj\Debug\Contact Manager.exe
+H:\Visual Studio\Contact Manager\Contact Manager\obj\Debug\Contact Manager.pdb
+H:\Visual Studio\Contact Manager\Contact Manager\obj\Debug\Contact_Manager.Form2.resources
